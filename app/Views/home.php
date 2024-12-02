@@ -47,22 +47,6 @@
 
 <body>
 
-    <!-- Preloader -->
-    <div class="preloader">
-        <div class="loader">
-            <div class="loader-outter"></div>
-            <div class="loader-inner"></div>
-
-            <div class="indicator">
-                <svg width="16px" height="12px">
-                    <polyline id="back" points="1 6 4 6 6 11 10 1 12 6 15 6"></polyline>
-                    <polyline id="front" points="1 6 4 6 6 11 10 1 12 6 15 6"></polyline>
-                </svg>
-            </div>
-        </div>
-    </div>
-    <!-- End Preloader -->
-
     <!-- Header Area -->
     <header class="header">
         <!-- Header Inner -->
@@ -73,7 +57,7 @@
                         <div class="col-lg-3 col-md-3 col-12">
                             <!-- Start Logo -->
                             <div class="logo">
-                                <a href="index.html"><img src="/assets/img/logo.png" alt="#"></a>
+                                <a href="index.html"><img src="/assets/img/bru.png" alt="#"></a>
                             </div>
                             <!-- End Logo -->
                             <!-- Mobile Nav -->

@@ -50,14 +50,14 @@ Version:	1.1
 	Start Header CSS 
 =====================*/
 .header{
-	background-color:#fff;
+	background-color:#f75dbd;
 	position:relative;
 }
 .header .navbar-collapse{
 	padding:0;
 }
 .header .header-inner {
-	background:#fff;
+	background:#f75dbd;
 	z-index:999;
 	width:100%;
 }
@@ -69,7 +69,7 @@ Version:	1.1
 }
 .header .logo {
 	float: left;
-	margin-top: 18px;
+	margin-top: 10px;
 }
 .header .navbar {
 	background: none;
@@ -88,7 +88,7 @@ Version:	1.1
 	margin:0;
 }
 .header .nav li a {
-	color: #2C2D3F;
+	color: #fff;
 	font-size: 14px;
 	font-weight: 500;
 	text-transform: capitalize;
@@ -488,7 +488,7 @@ Version:	1.1
     margin: 0 auto;
     width: 80%;
     height: 90%;
-    background:#1A76D1;
+    background:#f75dbd;
     opacity: 0;
     filter: blur(10px);
     -webkit-transition: all .3s ease-out 0s;
