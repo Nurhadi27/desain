@@ -74,7 +74,7 @@
                                                 <li><a href="index.html">Home Page 1</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">Anak </a></li>
+                                        <li><a href="/anak">Anak </a></li>
                                         <li><a href="#">Services </a></li>
                                         <li><a href="#">Pages <i class="icofont-rounded-down"></i></a>
                                             <ul class="dropdown">
